@@ -5,7 +5,7 @@ Built Netflix clone using React, Redux Toolkit, axios and Firebase. Built clean 
 
 <h3>Check it out: https://netflix-clone-a6336.web.app/</h3>
 
-##Screenshots
+## Screenshots
 ![frame_safari_dark](https://user-images.githubusercontent.com/76874725/219385469-4bb50d21-099f-4f50-9ab5-f37409d414cd.png)
 ![frame_safari_dark (4)](https://user-images.githubusercontent.com/76874725/219387357-8a27b620-394f-40ad-bfc1-f82d570b568f.png)
 ![frame_safari_dark (1)](https://user-images.githubusercontent.com/76874725/219387410-d4256ab8-128e-40e1-8a94-e2dd0dbf19bb.png)
