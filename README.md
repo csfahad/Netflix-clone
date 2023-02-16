@@ -1,44 +1,56 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+# Covid-19 Tracker App
 
-In the project directory, you can run:
+Built Netflix clone using React, Redux Toolkit, axios and Firebase. Built clean & crisp Responsive UI as same as the real one. Also added the Subscriptoin functionality using Stripe Payment method. Sign In/Signup functionality using firebase and lot more. having lot of fun and learnings while making it 😊.
 
-### `npm start`
+<h3>Check it out: https://netflix-clone-a6336.web.app/</h3>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##Screenshots
+![frame_safari_dark](https://user-images.githubusercontent.com/76874725/219385469-4bb50d21-099f-4f50-9ab5-f37409d414cd.png)
+![frame_safari_dark (4)](https://user-images.githubusercontent.com/76874725/219387357-8a27b620-394f-40ad-bfc1-f82d570b568f.png)
+![frame_safari_dark (1)](https://user-images.githubusercontent.com/76874725/219387410-d4256ab8-128e-40e1-8a94-e2dd0dbf19bb.png)
+![frame_safari_dark (2)](https://user-images.githubusercontent.com/76874725/219387445-a49bf311-53ca-4008-9c6c-e65fa1da4c01.png)
+![frame_safari_dark (3)](https://user-images.githubusercontent.com/76874725/219387481-eea4268f-c908-44f4-b9ca-b07bf971aa81.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Run Locally
 
-### `npm test`
+First fork the project & then Clone the project
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+  git clone https://github.com/<USERNAME>/Netflix-clone.git
+```
 
-### `npm run build`
+Go to the project directory
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+  cd Netflix-clone
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Install dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+  npm install
+```
 
-### `npm run eject`
+Start the server
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+  npm run start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Authors
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [@csfahad](https://www.github.com/csfahad)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## About Me
+A Full MERN-stack developer,Open Source Contributor,DevOps Folk and A CyberSecurity Geek as well from India🇮🇳
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csfahad)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fahad_cs)
+
+<div align="center"><h3>Made with ❤️ by CsFahad</h3></div>
+
