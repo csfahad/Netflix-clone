@@ -1,5 +1,5 @@
 
-# Covid-19 Tracker App
+# Netflix clone web App
 
 Built Netflix clone using React, Redux Toolkit, axios and Firebase. Built clean & crisp Responsive UI as same as the real one. Also added the Subscriptoin functionality using Stripe Payment method. Sign In/Signup functionality using firebase and lot more. having lot of fun and learnings while making it 😊.
 
